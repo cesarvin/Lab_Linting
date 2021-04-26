@@ -29,5 +29,6 @@ module.exports = {
     'arrow-parens': 'off',
     'no-else-return': 'off',
     'no-nested-ternary': 'off',
+    'linebreak-style': 'off',
   },
 };
